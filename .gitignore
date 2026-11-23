@@ -14,3 +14,5 @@ __pycache__/
 # Editor settings
 .vscode/
 .idea/
+models/semantic_encoder/model_quantized.onnx
+models/semantic_encoder/tokenizer.json

@@ -1,0 +1,127 @@
+split,target_category,description
+train,Food,طلبت pizza للبيت
+train,Food,coffee قبل الدوام
+train,Food,اشتريت groceries من السوبرماركت
+train,Food,سندويشة chicken للغدا
+train,Food,حق espresso عالمفرق
+train,Food,دفعنا lunch بالمطعم
+train,Food,خبز و cheese للفطور
+train,Food,كيس rice من الدكان
+train,Food,فنجان tea عالبلكون
+train,Food,وجبة takeaway للعيلة
+train,Food,دفعت حق breakfast
+train,Food,fresh fruit للسفرة
+validation,Food,بيتزا delivery بعد الشغل
+validation,Food,coffee مع رفقاتي
+validation,Food,طلبية sushi من المطعم
+test,Food,لبن و bread عالطريق
+test,Food,sandwich من الكافيه
+test,Food,اشتريت vegetables للسَلَطة
+train,Transport,taxi من المطار
+train,Transport,عبّيت fuel للسيارة
+train,Transport,دفعت parking عند الجامعة
+train,Transport,bus ticket للرجعة
+train,Transport,مشوار Uber عالشغل
+train,Transport,اشتراك metro بالشهر
+train,Transport,حجزت flight ع بيروت
+train,Transport,عبّيت diesel عالطريق
+train,Transport,train fare لطرابلس
+train,Transport,حق shuttle للفندق
+train,Transport,ركبت tram للوسط
+train,Transport,تأجير bike للمشوار
+validation,Transport,حساب taxi بعد السهرة
+validation,Transport,تذكرة bus لأختي
+validation,Transport,دفعت highway toll
+test,Transport,أجرة van للضيعة
+test,Transport,airport ride للبيت
+test,Transport,اشتريت ferry ticket للجزيرة
+train,Bills,دفعت internet للبيت
+train,Bills,فاتورة electricity لهالشهر
+train,Bills,جدّدت mobile plan
+train,Bills,water bill للشقة
+train,Bills,شحن data للموبايل
+train,Bills,اشتراك generator للبناية
+train,Bills,دفعت landline للمكتب
+train,Bills,رصيد prepaid لخط أمي
+train,Bills,حزمة broadband للنت
+train,Bills,فاتورة الغاز heating
+train,Bills,جدّدت WiFi للمحل
+train,Bills,mobile recharge للولد
+validation,Bills,حسموا فاتورة internet
+validation,Bills,electric bill عن آب
+validation,Bills,رسوم sewer للمبنى
+test,Bills,فاتورة phone الشهرية
+test,Bills,دفعت اشتراك fiber
+test,Bills,حساب water للبيت
+train,Shopping,شريت headphones للشغل
+train,Shopping,طلبت desk للغرفة
+train,Shopping,جبت shoes للعيد
+train,Shopping,دفعت حق laptop
+train,Shopping,phone case للموبايل
+train,Shopping,اشتريت jacket للبرد
+train,Shopping,طقم towels للحمام
+train,Shopping,بطلب keyboard للكمبيوتر
+train,Shopping,شاحن USB جديد
+train,Shopping,كاسة coffee mug للمكتب
+train,Shopping,كنزة sweater للصبي
+train,Shopping,كرسي office chair
+validation,Shopping,حق sneakers من السوق
+validation,Shopping,اشتريت monitor مستعمل
+validation,Shopping,فستان dress للسهرة
+test,Shopping,سلك charging cable للسيارة
+test,Shopping,حقيبة backpack للمدرسة
+test,Shopping,مصباح desk lamp للبيت
+train,Health,كشفية doctor اليوم
+train,Health,دفعت dental cleaning
+train,Health,حق medicine للصغير
+train,Health,فحص blood test
+train,Health,حساب pharmacy للدوا
+train,Health,زيارة clinic للمعاينة
+train,Health,علاج physical therapy لظهري
+train,Health,اشتريت insulin للصيدلية بوصفة
+train,Health,حق vaccine للطفل
+train,Health,دفعت eye exam
+train,Health,دواء antibiotics للالتهاب
+train,Health,حجزت ultrasound للبطن
+validation,Health,موعد dentist للضرس
+validation,Health,تحليل lab للدم
+validation,Health,اشتريت inhaler للربو
+test,Health,كشفية dermatologist للجلد
+test,Health,medical scan للكتف
+test,Health,وصفتلي الدكتورة prescription drops واشتريتن
+train,Entertainment,تذكرتين cinema لليلة
+train,Entertainment,اشتريت video game
+train,Entertainment,حجز concert مع رفقاتي
+train,Entertainment,movie rental للسهرة
+train,Entertainment,اشتراك music streaming
+train,Entertainment,لعبنا bowling بالنادي
+train,Entertainment,رسم museum entry
+train,Entertainment,مقعد theater للمسرحية
+train,Entertainment,حفل jazz بالساحة
+train,Entertainment,دفعت arcade credits
+train,Entertainment,دخول festival بالصيف
+train,Entertainment,بطاقة comedy show
+validation,Entertainment,حجزنا cinema للصغار
+validation,Entertainment,حق game download
+validation,Entertainment,دخول معرض art exhibition
+test,Entertainment,اشتراك Netflix للعيلة
+test,Entertainment,live music تذكرة للحفلة
+test,Entertainment,تذكرة puppet show للولد
+train,Other,دفعت rent للبيت
+train,Other,جددت insurance للسيارة
+train,Other,حوالة transfer لأخي
+train,Other,تبرّع charity للجمعية
+train,Other,حق hotel room للسفر
+train,Other,قسط tuition للمعهد
+train,Other,bank fee عالحساب
+train,Other,رسم passport renewal
+train,Other,دفعت haircut عند الحلاق
+train,Other,اشتراك accounting software
+train,Other,أجرة laundry للبدلة
+train,Other,قسط mortgage للشقة
+validation,Other,دفعت apartment rent
+validation,Other,تجديد home insurance
+validation,Other,مصاريف notary للوكالة
+test,Other,donation لحملة الشتوية
+test,Other,دفعت رسوم visa
+test,Other,حجز guesthouse للويكند

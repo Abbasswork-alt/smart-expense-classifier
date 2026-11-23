@@ -5,7 +5,8 @@ import streamlit as st
 PROJECT_PATH = Path(__file__).resolve().parents[1]
 if str(PROJECT_PATH) not in sys.path:
     sys.path.insert(0, str(PROJECT_PATH))
-from src.predict import predict
+from src.predict import UnrecognizedDescription
+from src.language_predict import explain_language
 
 st.set_page_config(page_title='Violet | Expense Classifier', page_icon='🟣', layout='wide')
 EXAMPLES = [
@@ -17,6 +18,19 @@ EXAMPLES = [
     'Target clothing purchase', 'Dental clinic appointment', 'Doctor medical visit',
     'Monthly rent payment', 'Microsoft 365 subscription', 'Hilton hotel booking',
 ]
+
+def reset_page():
+    for key in ("last_result", "description", "example_choice"):
+        st.session_state.pop(key, None)
+
+
+pages = {"English": "english", "العربية": "arabic", "Arabic + English": "mixed"}
+page = st.sidebar.radio("Classifier page", list(pages), on_change=reset_page)
+language = pages[page]
+if language == "arabic":
+    EXAMPLES = ["دفعت فاتورة الإنترنت", "أجرة سيارة للمطار", "زيارة طبيب الأسنان"]
+elif language == "mixed":
+    EXAMPLES = ["دفعت internet للبيت", "taxi من المطار", "طلبت pizza للبيت"]
 
 st.markdown('''
 <style>
@@ -36,7 +50,7 @@ div.stButton > button[kind="primary"]:hover {background:#5530a5; color:white;}
 <div class="hero"><div class="eyebrow">VIOLET · AI &amp; ML INTERNSHIP</div>
 <h1>Small descriptions.<br>Clearer spending.</h1>
 <p>Turn an expense description into a category. Explore a prediction and see how confident the model is.</p>
-<span class="pill">7 categories</span><span class="pill">English descriptions</span><span class="pill">Local learning demo</span></div>
+<span class="pill">7 categories</span><span class="pill">''' + page + '''</span><span class="pill">Local learning demo</span></div>
 ''', unsafe_allow_html=True)
 
 with st.sidebar:
@@ -58,10 +72,10 @@ def choose_example():
 left, right = st.columns([1.4,1], gap='large')
 with left:
     st.subheader('What did you spend on?')
-    st.selectbox('Try one of 20 examples', [''] + EXAMPLES,
+    st.selectbox(f'Try one of {len(EXAMPLES)} examples', [''] + EXAMPLES,
         format_func=lambda value: value or 'Choose an example…',
         key='example_choice', on_change=choose_example)
-    description = st.text_input('Expense description', placeholder='e.g. Netflix monthly payment',
+    description = st.text_input('Expense description', placeholder=EXAMPLES[0],
         key='description', on_change=clear_result)
     if st.button('Classify expense', type='primary', use_container_width=True):
         if not description.strip():
@@ -70,7 +84,10 @@ with left:
         else:
             try:
                 with st.spinner('Reading your expense…'):
-                    st.session_state.last_result = predict(description)
+                    st.session_state.last_result = explain_language(description, language)
+            except UnrecognizedDescription as error:
+                clear_result()
+                st.warning(str(error))
             except FileNotFoundError:
                 st.error('The saved model is missing. Restore it in the models folder to continue.')
 with right:
@@ -83,10 +100,20 @@ with right:
             st.metric('Estimated confidence', f"{result['confidence']:.1%}")
             st.progress(float(result['confidence']))
             st.caption('Confidence is an estimate, not a guarantee.')
+            if "features" in result:
+                st.markdown("**Why this category?**")
+                features = result["features"]
+                if features:
+                    st.caption("Words and phrases that supported this category, strongest first")
+                    for item in features:
+                        st.text(item["feature"])
+                else:
+                    st.caption("No whole word or phrase had a positive contribution.")
+            else:
+                st.caption("Click Classify expense again to see the supporting words.")
         else:
             st.info('Your result will appear here. Choose an example or enter your own expense.')
 st.divider()
 with st.expander('About this demo & its limitations'):
-    st.write('Built with TF-IDF and a calibrated Linear SVM, trained on synthetic English transactions.')
+    st.write('English expense notes combine a multilingual sentence encoder with the bank classifier. Arabic uses word and character features. Mixed descriptions use logistic regression.')
     st.write('Unfamiliar merchants, real descriptions, and combined purchases may be misclassified, even at high confidence. Other includes expenses outside the six specific categories.')
-    st.caption('Known limitation: “Uber ride to airport” can be predicted as Other. Suggestions demonstrate model behavior; they are not guaranteed correct answers.')

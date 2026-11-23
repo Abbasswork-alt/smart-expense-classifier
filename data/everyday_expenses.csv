@@ -1,0 +1,344 @@
+split,target_category,description
+test,Food,Pita and hummus to take away
+test,Food,Picked up produce from the Sunday market
+test,Food,Late breakfast at Juniper Table
+test,Food,Weekly groceries for my parents
+test,Food,Espresso and a croissant on my way in
+test,Food,Fish fillets for tonight's dinner
+test,Food,A bag of flour and fresh yeast
+test,Food,Mango smoothie at the kiosk
+test,Transport,One-way train fare to the coast
+test,Transport,Diesel at the motorway services
+test,Transport,Parked overnight in the municipal garage
+test,Transport,Taxi from Cedar Cross to the hospital
+test,Transport,Loaded my metro card at the station
+test,Transport,Weekend bicycle hire
+test,Transport,Airport shuttle for our return flight
+test,Transport,Toll for crossing the river
+test,Bills,Settled the quarterly gas bill
+test,Bills,Paid the house broadband provider
+test,Bills,Usage charges for our landline
+test,Bills,Water service for the new flat
+test,Bills,My electricity supplier's direct debit
+test,Bills,Top up for a prepaid mobile plan
+test,Bills,Sewer bill for last quarter
+test,Bills,Fiber internet at the studio
+test,Shopping,A duvet cover for the spare bed
+test,Shopping,Ordered shoes from Ash Row
+test,Shopping,Bought replacement headphones for the commute
+test,Shopping,USB cable for my phone
+test,Shopping,New frying pan for the kitchen
+test,Shopping,School backpack from the outlet
+test,Shopping,Desk chair for working at home
+test,Shopping,Rain jacket for the hiking trip
+test,Health,Had a cavity filled at Elm Dental
+test,Health,Prescription ointment from the chemist
+test,Health,Follow-up with my cardiologist
+test,Health,Eye exam and contact lens fitting
+test,Health,Blood work at the local lab
+test,Health,Paid for a physical therapy session
+test,Health,Child's vaccinations at the clinic
+test,Health,Medicine for hay fever
+test,Entertainment,Tickets to an outdoor jazz concert
+test,Entertainment,Rented a comedy to watch tonight
+test,Entertainment,Downloaded a puzzle game
+test,Entertainment,Admission to the art museum
+test,Entertainment,Seats for a play at Lantern Hall
+test,Entertainment,Streaming membership for classic films
+test,Entertainment,Bowling with friends on Friday
+test,Entertainment,Pop festival weekend pass
+test,Other,Deposit for a room at a guesthouse
+test,Other,Tenant insurance for the flat
+test,Other,Renewed the family passports
+test,Other,Donation for flood relief
+test,Other,Transferred money to a cousin
+test,Other,Evening course tuition
+test,Other,Paid my barber for a trim
+test,Other,Fee for replacing a bank card
+validation,Food,Tea and toast before work
+validation,Food,Fruit from the greengrocer
+validation,Food,Shared a pizza with colleagues
+validation,Food,Pantry groceries for the month
+validation,Food,Lunch at Blue Maple
+validation,Transport,Bus fare across town
+validation,Transport,Refueled my motorbike
+validation,Transport,Station car park for the morning
+validation,Transport,Hired a cab after dinner
+validation,Transport,Return rail ticket
+validation,Bills,Monthly broadband direct debit
+validation,Bills,Electricity for the workshop
+validation,Bills,Recharge for my phone line
+validation,Bills,Water rates for the house
+validation,Bills,Gas service charge
+validation,Shopping,Bed sheets for the guest room
+validation,Shopping,Replacement monitor for my computer
+validation,Shopping,Ordered sneakers online
+validation,Shopping,Blender for homemade soup
+validation,Shopping,Bought a wooden shelf
+validation,Health,Dental x-ray at the surgery
+validation,Health,Refilled my asthma medicine
+validation,Health,Booked a visit with the optometrist
+validation,Health,Clinic fee for a checkup
+validation,Health,Paid the physiotherapist
+validation,Entertainment,Comedy show with friends
+validation,Entertainment,New console game for the weekend
+validation,Entertainment,Cinema seats for two
+validation,Entertainment,Music streaming renewal
+validation,Entertainment,Entry to an exhibition
+validation,Other,Paid the apartment landlord
+validation,Other,Gift to a local charity
+validation,Other,Car insurance renewal
+validation,Other,Hair salon visit
+validation,Other,Sent my uncle money
+train,Food,Groceries for the coming week
+train,Food,Supermarket basket with milk and bread
+train,Food,Bag of rice and a carton of eggs
+train,Food,Chicken and vegetables from the market
+train,Food,Dinner for the family at the bistro
+train,Food,Coffee beans from the roaster
+train,Food,Two lattes at the station cafe
+train,Food,Sandwich and soup on my lunch break
+train,Food,Bottled water with my meal
+train,Food,Pizza delivery to the office
+train,Food,Bakery bread and cheese rolls
+train,Food,Picked up apples and pears
+train,Food,Breakfast burrito before class
+train,Food,Evening takeaway noodles
+train,Food,Burgers and fries after the match
+train,Food,Bought fresh fish at the counter
+train,Food,Ice cream cones for the children
+train,Food,Eggs butter and flour for baking
+train,Food,Fresh produce for a salad
+train,Food,Falafel wrap from the sandwich stand
+train,Food,Herbal tea and biscuits
+train,Food,Yogurt and granola for breakfast
+train,Food,Refilled the pantry with groceries
+train,Food,Beef and potatoes for supper
+train,Food,Lunch special at the diner
+train,Food,Chocolate croissant and espresso
+train,Food,Paid for dinner at the airport cafe
+train,Food,Catering trays for Sunday's lunch
+train,Food,Dairy milk and orange juice
+train,Food,Bagels at the corner bakery
+train,Food,A slice of cake for dessert
+train,Food,Hot meal from the food truck
+train,Food,Frozen vegetables and canned beans
+train,Food,Takeout sushi for two
+train,Food,Smoothie made with berries
+train,Food,Picnic snacks from the corner store
+train,Transport,Cab ride back from the office
+train,Transport,Booked a taxi for an early flight
+train,Transport,Bus ticket to the university
+train,Transport,Train ride to see family
+train,Transport,Monthly metro pass
+train,Transport,Tram fare after the show
+train,Transport,Diesel fuel for the van
+train,Transport,Filled the car with petrol
+train,Transport,Parking meter outside the clinic
+train,Transport,Overnight parking at the terminal
+train,Transport,Paid the bridge toll
+train,Transport,Airport shuttle to the hotel
+train,Transport,Rented a car for the weekend
+train,Transport,Bike hire for my commute
+train,Transport,Subway card top up
+train,Transport,Ferry fare across the harbour
+train,Transport,Return flight to the capital
+train,Transport,Intercity coach ticket
+train,Transport,Garage parking for two hours
+train,Transport,Rail pass for the work commute
+train,Transport,Taxi ride across the city
+train,Transport,Fuel pump at the service station
+train,Transport,Ticket for the light rail
+train,Transport,Motorway toll on the way home
+train,Transport,Rideshare from the restaurant
+train,Transport,Train platform ticket for the express
+train,Transport,Bought an airline ticket
+train,Transport,Paid for the airport car park
+train,Transport,Bus transfer on my travel card
+train,Transport,Gasoline for my motorbike
+train,Transport,Bicycle rental for the afternoon
+train,Transport,Paid the driver for a lift
+train,Transport,Van rental for moving day
+train,Transport,Airport express bus to downtown
+train,Transport,Car fare for a shared ride
+train,Transport,Loaded credit onto my transit card
+train,Bills,Monthly electricity direct debit
+train,Bills,Home broadband renewal
+train,Bills,Internet service for our flat
+train,Bills,Phone plan for my mobile line
+train,Bills,Metered water and sewer service
+train,Bills,Gas bill for heating the house
+train,Bills,Landline rental for this month
+train,Bills,Topped up my prepaid phone
+train,Bills,Electric company statement
+train,Bills,Fiber connection monthly fee
+train,Bills,Household utility bill
+train,Bills,Water supplier direct debit
+train,Bills,Natural gas standing charge
+train,Bills,Mobile data bundle renewal
+train,Bills,Paid the apartment electricity supplier
+train,Bills,Our home internet bill
+train,Bills,Water rates for the quarter
+train,Bills,Paid the sewer utility
+train,Bills,Telephone line service charges
+train,Bills,Electric power for the apartment
+train,Bills,Renewed cable internet service
+train,Bills,Heating gas account payment
+train,Bills,Family mobile plan renewal
+train,Bills,Broadband provider charged my account
+train,Bills,Bill for wastewater collection
+train,Bills,Prepaid cellular airtime
+train,Bills,Power meter recharge
+train,Bills,Quarterly water usage charges
+train,Bills,Fixed line telephone bill
+train,Bills,Paid for home WiFi service
+train,Bills,Electricity usage for last month
+train,Bills,Gas and electric utilities
+train,Bills,Internet connection fee at home
+train,Bills,Renewed my cellular data plan
+train,Bills,Water service reconnection fee
+train,Bills,Monthly fiber broadband subscription
+train,Shopping,Bought a pair of leather shoes
+train,Shopping,New trainers from the shoe store
+train,Shopping,Winter jacket and a scarf
+train,Shopping,Purchased a laptop for work
+train,Shopping,Replacement charger for my computer
+train,Shopping,Wooden desk for the study
+train,Shopping,Lamp for the bedside table
+train,Shopping,Phone charging cable
+train,Shopping,Frying pan and kitchen utensils
+train,Shopping,New duvet and pillowcases
+train,Shopping,Jeans and a cotton shirt
+train,Shopping,Headphones for the gym
+train,Shopping,Ordered a game console
+train,Shopping,Coffee maker for the kitchen
+train,Shopping,Backpack for school
+train,Shopping,Running shorts and socks
+train,Shopping,Desk chair for my office
+train,Shopping,Bookshelf from the furniture shop
+train,Shopping,Bath towels for the apartment
+train,Shopping,Bought a replacement keyboard
+train,Shopping,New coat for cold weather
+train,Shopping,Wardrobe hangers and storage boxes
+train,Shopping,Clothing order from the outlet
+train,Shopping,Sneakers for my daughter
+train,Shopping,Bought a second monitor
+train,Shopping,USB adapter for the printer
+train,Shopping,Replacement kettle and toaster
+train,Shopping,Sofa for the living room
+train,Shopping,Bought a ceramic bowl set
+train,Shopping,New bedsheets and a blanket
+train,Shopping,Curtains for the bedroom
+train,Shopping,Phone case and screen protector
+train,Shopping,Floor lamp for my reading corner
+train,Shopping,Shopping for boots and a belt
+train,Shopping,A rug for the hallway
+train,Shopping,New headphones from the airport shop
+train,Health,Refilled my prescription at the pharmacy
+train,Health,Dentist fee for a filling
+train,Health,Antibiotics prescribed by my doctor
+train,Health,Physiotherapy for my shoulder
+train,Health,Visit to the eye doctor
+train,Health,Blood test at the laboratory
+train,Health,Flu vaccination at the clinic
+train,Health,Prescription medicine for allergies
+train,Health,Emergency room copay
+train,Health,Medical checkup with my physician
+train,Health,Dental cleaning and x-rays
+train,Health,New glasses from the optician
+train,Health,Physical therapy for knee pain
+train,Health,Pharmacist filled my medication order
+train,Health,Appointment with my dermatologist
+train,Health,Hospital consultation fee
+train,Health,Insulin and glucose test strips
+train,Health,Picked up tablets from the chemist
+train,Health,Visit to a cardiology specialist
+train,Health,Child's vaccine appointment
+train,Health,Dental treatment for a cracked tooth
+train,Health,Bought cough medicine
+train,Health,Therapy session with my psychologist
+train,Health,Eye examination and lens prescription
+train,Health,Pain relief tablets from the pharmacy
+train,Health,Lab fee for blood work
+train,Health,Annual health screening
+train,Health,Purchased an asthma inhaler
+train,Health,Hospital scan for my ankle
+train,Health,Medical appointment for my child
+train,Health,Antibiotic ointment for an infection
+train,Health,Doctor visit for a sore throat
+train,Health,Follow up at the dental practice
+train,Health,Paid for a diagnostic ultrasound
+train,Health,Consultation with a physiotherapist
+train,Health,Travel vaccination before my holiday
+train,Entertainment,Two tickets to a film
+train,Entertainment,Cinema admission for matinee
+train,Entertainment,Bought a video game online
+train,Entertainment,Concert seats for the band
+train,Entertainment,Movie streaming membership
+train,Entertainment,Music subscription renewal
+train,Entertainment,Theatre tickets for the evening
+train,Entertainment,Museum entry for the family
+train,Entertainment,Bowling lane rental
+train,Entertainment,Festival admission on Saturday
+train,Entertainment,Rented a movie on demand
+train,Entertainment,Arcade game credits
+train,Entertainment,Live jazz show at the club
+train,Entertainment,Seats for the comedy performance
+train,Entertainment,Paid to stream a documentary
+train,Entertainment,Game download for my console
+train,Entertainment,Opera tickets for the weekend
+train,Entertainment,Art gallery exhibition admission
+train,Entertainment,Ticket to a basketball game
+train,Entertainment,Cinema popcorn-free movie pass
+train,Entertainment,Monthly subscription to watch films
+train,Entertainment,Purchased a puzzle game expansion
+train,Entertainment,Live concert at the arena
+train,Entertainment,Admission to a theme park
+train,Entertainment,Entry to the dance performance
+train,Entertainment,Paid to watch a standup show
+train,Entertainment,Music streaming family membership
+train,Entertainment,Movie rental for the evening
+train,Entertainment,Ticket for a stage play
+train,Entertainment,Booked seats at the theatre
+train,Entertainment,Weekend passes to the music festival
+train,Entertainment,Downloaded a multiplayer video game
+train,Entertainment,Concert livestream ticket
+train,Entertainment,Admission to the local aquarium
+train,Entertainment,Billiards hall table rental
+train,Entertainment,Bought an annual cinema pass
+train,Other,Rent for my studio apartment
+train,Other,Mortgage payment for the house
+train,Other,Renewed the home insurance policy
+train,Other,Passport application fee
+train,Other,Donation to the community shelter
+train,Other,Transferred money to my sister
+train,Other,Tuition for evening classes
+train,Other,Haircut at the barber
+train,Other,Hotel room for one night
+train,Other,Monthly bank account fee
+train,Other,Paid an insurance premium
+train,Other,Donation for the animal shelter
+train,Other,University course registration fee
+train,Other,Paid my landlord for the flat
+train,Other,Money transfer to a friend
+train,Other,Salon visit for a haircut
+train,Other,Annual credit card fee
+train,Other,Room reservation at a motel
+train,Other,Renewed a software license for work
+train,Other,Fee for a replacement passport
+train,Other,Renter insurance premium
+train,Other,Paid for a professional certification course
+train,Other,Apartment security deposit
+train,Other,Charity contribution for disaster relief
+train,Other,Money sent to my nephew
+train,Other,Manicure at the nail salon
+train,Other,Life insurance direct debit
+train,Other,Paid the guesthouse for two nights
+train,Other,Late fee charged by the bank
+train,Other,Annual work software subscription
+train,Other,Gave money to a fundraiser
+train,Other,Mortgage installment for November
+train,Other,Hotel lodging near the airport
+train,Other,Paid my university tuition
+train,Other,Transfer to Alex
+train,Other,Service fee for my checking account

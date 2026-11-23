@@ -2323,7 +2323,7 @@ description,category,target_category
 [debit] PAYPAL INST XFER FITBIT PREMIUM WEB ID: PAYPALSI05,Subscription,Other
 [debit] walgreens 2051 elm ave fremont 94536 ca usa,Healthcare,Health
 [debit] HIPPO 1436 BROADWAY LN NASHVILLE 37201-4585TN USA,Insurance,Insurance
-[debit] AIRPORT PARKING ENROLLMENT,Travel,Other
+[debit] AIRPORT PARKING ENROLLMENT,Travel,Transport
 [debit] OPTIMUM 6232 INDUSTRIAL WAY BOSTON02101 MA USA,Utilities,Bills
 [debit] NORTHWESTERN MUTUALEFT PYMT PPD ID: 2632196917,Insurance,Insurance
 [debit] RITE AID 3904 ELM DR HOUSTON77001 TX USA,Shopping,Shopping
@@ -2578,7 +2578,7 @@ description,category,target_category
 [debit] WAL-MART #0366,Shopping,Shopping
 [debit] MAYO CLINIC MEDICAL,Healthcare,Health
 [debit] BOZZUTO RENT PAYMENT,Rent,Housing
-[debit] airport parking union city,Travel,Other
+[debit] airport parking union city,Travel,Transport
 [debit] paypal *budget c9dubh4lll,Travel,Transport
 [debit] massage envy #9959 minneapolis,Personal Care,Personal Care
 [debit] LYFT *TRIP PORTLAND C96K2C,Transportation,Transport
@@ -3185,7 +3185,7 @@ description,category,target_category
 [debit] TARGET T-5251,Shopping,Shopping
 [debit] UNITED AIRLINES 834484,Travel,Transport
 [debit] GUILD MORTGAGE PAYMENT,Mortgage,Housing
-[debit] AIRPORT PARKING PHOENIX,Travel,Other
+[debit] AIRPORT PARKING PHOENIX,Travel,Transport
 [debit] Mitsuwa Que #5960,Groceries,Food
 [debit] Tgi Friday's 8937 Mission St Denver80201 Co Usa,Restaurants,Food
 [debit] DR KIM FAMILY MEDICINE,Healthcare,Health
@@ -5603,7 +5603,7 @@ description,category,target_category
 [debit] HAND & STONE LLC,Personal Care,Personal Care
 [debit] BALANCE TRANSFER FEE - 36/50,Fees,Fees
 [debit] preauthorized withdrawal to wyzant,Education,Education
-[debit] AIRPORT PARKING MIAMI,Travel,Other
+[debit] AIRPORT PARKING MIAMI,Travel,Transport
 [debit] BANH MI 27741,Restaurants,Food
 [debit] COLLEGE OF MIAMI TUITION,Education,Education
 [debit] EQUINOX*JHNW3O0KUU,Personal Care,Personal Care
@@ -6196,7 +6196,7 @@ description,category,target_category
 [debit] BOVADA,Entertainment,Entertainment
 [debit] MR. COOPER MORTGAGE 91440255 PPD ID: 560654176,Mortgage,Housing
 [debit] Withdrawal from RELATED COS RENT,Rent,Housing
-[debit] AIRPORT PARKING,Travel,Other
+[debit] AIRPORT PARKING,Travel,Transport
 [debit] GOOGLE *FACEBOOK GAMING,Subscription,Entertainment
 [debit] BETHPAGE FCU MORTGAGE 97486375 PPD ID: 504352877,Mortgage,Housing
 [debit] TST*ONO HAWAIIAN BBQ #675,Restaurants,Food
@@ -6862,7 +6862,7 @@ description,category,target_category
 [debit] MEDITERRANEAN GRILL,Restaurants,Food
 [debit] PAPER STATEMENT FEE - 07/60,Fees,Fees
 [debit] PYPL*Marugame Udon,Restaurants,Food
-[debit] airport parking enrollment,Travel,Other
+[debit] airport parking enrollment,Travel,Transport
 [debit] HOMESITE PREMIUM PPD ID: 1308849360,Insurance,Insurance
 [debit] GLOBAL ENTRY,Travel,Other
 [debit] FRONTIER 2344 UNIVERSITY BLVD DALLAS75201 TX USA,Utilities,Bills
@@ -7419,7 +7419,7 @@ description,category,target_category
 [debit] Udr Inc Rent,Rent,Housing
 [debit] PP*Neiman Marcus,Shopping,Shopping
 [debit] PreApproved Payment Bill User Payment: HOMESITE,Insurance,Insurance
-[debit] AIRPORT PARKING 2912 UNIVERSITY RD NEWARK 07101 NJ USA,Travel,Other
+[debit] AIRPORT PARKING 2912 UNIVERSITY RD NEWARK 07101 NJ USA,Travel,Transport
 [debit] Late Payment Fee - 80/33,Fees,Fees
 [debit] payment to: chili's,Restaurants,Food
 [debit] COMMUNITY COLLEGE OF LAS VEGAS TUITION,Education,Education
@@ -7450,7 +7450,7 @@ description,category,target_category
 [debit] DOCUSIGN.com,Subscription,Other
 [debit] SPEEDWAY #078 COLUMBUS,Transportation,Transport
 [debit] Foodmaxx 1476 San Diego,Groceries,Food
-[debit] AIRPORT PARKING 5798,Travel,Other
+[debit] AIRPORT PARKING 5798,Travel,Transport
 [debit] SEAFOOD SAL #153,Groceries,Food
 [debit] shaws hou #8203,Groceries,Food
 [debit] Florida Power 7334 Mission Ln Philadelphia 19101 Pa Usa,Utilities,Bills
@@ -7523,7 +7523,7 @@ description,category,target_category
 [debit] PLANET FITNESS 6828 INDUSTRIAL AVE SAN DIEGO 92101-1135CA USA,Personal Care,Personal Care
 [debit] paypal *pypl szechuan palace,Restaurants,Food
 [debit] B&H PHOTO 111196,Shopping,Shopping
-[debit] AIRPORT PARKING.COM,Travel,Other
+[debit] AIRPORT PARKING.COM,Travel,Transport
 [debit] MAA APT RENT PPD ID: 6667933889,Rent,Housing
 [debit] ERIE INSURANCE PREMIUM PPD ID: 3251230189,Insurance,Insurance
 [debit] wok express #41050 raleigh,Restaurants,Food
@@ -9891,7 +9891,7 @@ description,category,target_category
 [debit] TING 5538 UNIVERSITY WAY SAN JOSE 95101-9307CA USA,Utilities,Bills
 [debit] Preauthorized Withdrawal to TRAMPOLINE PARK,Entertainment,Entertainment
 [debit] WITHDRAWAL FROM WASTE MANAGEMENT PICKUP,Utilities,Bills
-[debit] Airport Parking #07302 Portland,Travel,Other
+[debit] Airport Parking #07302 Portland,Travel,Transport
 [debit] NHP FOUNDATION RENT PMT 41886000 WEB ID: MW56VBHS,Rent,Housing
 [debit] CENTRAL COMPUTERS #187 LOS ANGELES,Shopping,Shopping
 [debit] abercrombie #38141,Shopping,Shopping
@@ -10635,7 +10635,7 @@ description,category,target_category
 [debit] AMERICAS TIRE - TAMPA,Transportation,Transport
 [debit] dr. white dental,Healthcare,Health
 [debit] Phillips 66 - Phoenix,Transportation,Transport
-[debit] AIRPORT PARKING BROOKLYN,Travel,Other
+[debit] AIRPORT PARKING BROOKLYN,Travel,Transport
 [debit] PAYPAL *THAI BASIL 6610PW9DXQ,Restaurants,Food
 [debit] paypal *hand & stone g2fzznbtci,Personal Care,Personal Care
 [debit] TST*SHAKE SHACK - HAYWARD,Restaurants,Food
@@ -12008,7 +12008,7 @@ description,category,target_category
 [debit] ANNUAL FEE - 56/21,Fees,Fees
 [debit] DENNY'S,Restaurants,Food
 [debit] cvs*00ua56ltmhvm,Healthcare,Health
-[debit] AIRPORT PARKING ORLANDO,Travel,Other
+[debit] AIRPORT PARKING ORLANDO,Travel,Transport
 [debit] Spectrum,Utilities,Bills
 [debit] kumon,Education,Education
 [debit] Brilliant.org,Education,Education
@@ -12084,7 +12084,7 @@ description,category,target_category
 [debit] FARMERS INS BILLING PPD ID: 8769662447,Insurance,Insurance
 [debit] COMMUNITY COLLEGE OF NEWARK TUITION,Education,Education
 [debit] GOOD TO GO TOLL PMT WEB ID: E4HD0Q6L,Transportation,Transport
-[debit] AIRPORT PARKING SAN DIEGO,Travel,Other
+[debit] AIRPORT PARKING SAN DIEGO,Travel,Transport
 [debit] TSA PRECHECK FREMONT,Travel,Other
 [debit] NEWREZ MORTGAGE 46288743 PPD ID: 346956109,Mortgage,Housing
 [debit] NORTHWESTERN MUTUALEFT PYMT PPD ID: 2069789102,Insurance,Insurance
@@ -12167,7 +12167,7 @@ description,category,target_category
 [debit] RADISSON*OMW8CUP9B,Travel,Other
 [debit] PRUDENTIAL INS PREMIUM PPD ID: 7286359159,Insurance,Insurance
 [debit] sport clips #8170 san diego,Personal Care,Personal Care
-[debit] airport parking,Travel,Other
+[debit] airport parking,Travel,Transport
 [debit] WALMART #1205,Shopping,Shopping
 [debit] Related Cos Lease Payment,Rent,Housing
 [debit] withdrawal from metro by t-mobile water,Utilities,Bills
@@ -13047,7 +13047,7 @@ description,category,target_category
 [debit] ESSEX PROPERTY RENT PMT 90221467 WEB ID: A4FKEKN9,Rent,Housing
 [debit] Wegmans #379,Groceries,Food
 [debit] MLB.TV 8931 OAK LN TAMPA 33601-6844FL USA,Entertainment,Entertainment
-[debit] AIRPORT PARKING COLUMBUS,Travel,Other
+[debit] AIRPORT PARKING COLUMBUS,Travel,Transport
 [debit] PAYPAL *MASTERCLASS CHRFWNNA2L,Education,Education
 [debit] PACIFIC LIFE INSURANCE PPD ID: 4380587868,Insurance,Insurance
 [debit] Facebook Marketplace 3554 Park Pkwy Pittsburgh 15201-2063pa Usa,Shopping,Shopping
@@ -13219,7 +13219,7 @@ description,category,target_category
 [debit] recology collection,Utilities,Bills
 [debit] INTERMOUNTAIN MEDICAL PMT WEB ID: Z6CI0884,Healthcare,Health
 [debit] BALANCE TRANSFER FEE - 02/81,Fees,Fees
-[debit] Airport Parking Enrollment,Travel,Other
+[debit] Airport Parking Enrollment,Travel,Transport
 [debit] Patel Family Medicine,Healthcare,Health
 [debit] ZAPPOS #8866 HOUSTON,Shopping,Shopping
 [debit] INVITATION HOMES RENT PMT 60516570 PPD ID: 767641809,Rent,Housing
@@ -13545,7 +13545,7 @@ description,category,target_category
 [debit] SUNOCO #5570 MIAMI,Transportation,Transport
 [debit] VARSITY TUTORS*6I6GU64QOP,Education,Education
 [debit] JOLLIBEE #53419 QUEENS,Restaurants,Food
-[debit] AIRPORT PARKING HOUSTON,Travel,Other
+[debit] AIRPORT PARKING HOUSTON,Travel,Transport
 [debit] LYFT *TRIP NASHVILLE LCRGWN,Transportation,Transport
 [debit] DR MARTIN DERMATOLOGY,Healthcare,Health
 [debit] apple.com/bill 5770 broadway dr fremont94536 ca usa,Subscription,Other
@@ -14513,7 +14513,7 @@ description,category,target_category
 [debit] Grocoutlt #68659 Fremont,Groceries,Food
 [debit] POKE BOWL 4836 UNIVERSITY WAY LOS ANGELES 90001 CA USA,Restaurants,Food
 [debit] COURTYARD INC.,Travel,Other
-[debit] AIRPORT PARKING LAS VEGAS,Travel,Other
+[debit] AIRPORT PARKING LAS VEGAS,Travel,Transport
 [debit] clear phoenix,Travel,Other
 [debit] PARKSMART 1488 BROADWAY ST SAN FRANCISCO 94102 CA USA,Transportation,Transport
 [debit] AIRBNB INC,Travel,Other
@@ -16176,7 +16176,7 @@ description,category,target_category
 [debit] Dr. Miller Family Medicine,Healthcare,Health
 [debit] Bank Of America Mortgagemortgage 18800893 Web Id: S67qsg1j,Mortgage,Housing
 [debit] Withdrawal from ELEMENTS MASSAGE,Personal Care,Personal Care
-[debit] Airport Parking 3458 Center St Oakland94601 Ca Usa,Travel,Other
+[debit] Airport Parking 3458 Center St Oakland94601 Ca Usa,Travel,Transport
 [debit] HOLIDAY INN LLC,Travel,Other
 [debit] INTELLIGENTSIA #9551 NEW YORK,Restaurants,Food
 [debit] ALBERTSONS 4692 MARKET PKWY TAMPA33601 FL USA,Groceries,Food
@@ -16844,7 +16844,7 @@ description,category,target_category
 [debit] HIPPO BILLING PPD ID: 8936860389,Insurance,Insurance
 [debit] MONTHLY SERVICE FEE - 36/51,Fees,Fees
 [debit] Cerave #02047 Seattle,Personal Care,Personal Care
-[debit] SUBSCRIPTION PAYMENT: AIRPORT PARKING,Travel,Other
+[debit] SUBSCRIPTION PAYMENT: AIRPORT PARKING,Travel,Transport
 [debit] School District Of Austin Tuition,Education,Education
 [debit] CITY WATER ELECTRIC WEB ID: E36O08QI,Utilities,Bills
 [debit] BARNES & NOBLE - CHICAGO,Education,Education
@@ -16900,7 +16900,7 @@ description,category,target_category
 [debit] ASIAN SUPERMARKET 3713 CENTER LN AUSTIN 78701-2266TX USA,Groceries,Food
 [debit] Target 98542906,Shopping,Shopping
 [debit] TARGET 84064784,Shopping,Shopping
-[debit] AIRPORT PARKING PORTLAND,Travel,Other
+[debit] AIRPORT PARKING PORTLAND,Travel,Transport
 [debit] VISIBLE UTIL PMT WEB ID: IVNAXT0Q,Utilities,Bills
 [debit] HAVEN LIFE EFT PYMT PPD ID: 9019865219,Insurance,Insurance
 [debit] BONCHON #521 OAKLAND,Restaurants,Food
@@ -16930,7 +16930,7 @@ description,category,target_category
 [debit] EQUITY RESIDENTIALAPT RENT PPD ID: 2284727997,Rent,Housing
 [debit] US MOBILE 413327,Utilities,Bills
 [debit] WINCO FOODS 222 CENTER ST SEATTLE 98101 WA USA,Groceries,Food
-[debit] AIRPORT PARKING CHICAGO,Travel,Other
+[debit] AIRPORT PARKING CHICAGO,Travel,Transport
 [debit] CALIBER HOME LOANSMORTGAGE 37012971 PPD ID: 610289841,Mortgage,Housing
 [debit] Savemart #392 New York,Groceries,Food
 [debit] FANTASTIC SAMS 13340810,Personal Care,Personal Care
@@ -18413,7 +18413,7 @@ description,category,target_category
 [debit] BISHOPS CUT INC,Personal Care,Personal Care
 [debit] sally beauty corp,Personal Care,Personal Care
 [debit] TST* BLUE BOTTLE #118,Restaurants,Food
-[debit] preauthorized withdrawal to airport parking,Travel,Other
+[debit] preauthorized withdrawal to airport parking,Travel,Transport
 [debit] METLIFE EFT PYMT PPD ID: 6372535674,Insurance,Insurance
 [debit] ZOO 9905 CENTER ST ORLANDO 32801-0791FL USA,Entertainment,Entertainment
 [debit] NANDO'S - SAN DIEGO,Restaurants,Food
@@ -18471,7 +18471,7 @@ description,category,target_category
 [debit] CARDENAS 9492 MAIN ST FREMONT 94536-9637CA USA,Groceries,Food
 [debit] LENOVO #293,Shopping,Shopping
 [debit] TST* POKE BOWL #871,Restaurants,Food
-[debit] Airport Parking Raleigh,Travel,Other
+[debit] Airport Parking Raleigh,Travel,Transport
 [debit] go kart 28625925,Entertainment,Entertainment
 [debit] COLLEGE OF UNION CITY TUITION,Education,Education
 [debit] APPLE.COM/BILL 163 MISSION ST ORLANDO 32801-0951FL USA,Subscription,Other
@@ -19082,7 +19082,7 @@ description,category,target_category
 [debit] ESPN+ - HAYWARD,Entertainment,Entertainment
 [debit] FANTASTIC SAMS 9543 MARKET LN TAMPA 33601-4504FL USA,Personal Care,Personal Care
 [debit] Datacamp 4710 Broadway Ave Las Vegas 89101-3060nv Usa,Education,Education
-[debit] AIRPORT PARKING LOS ANGELES,Travel,Other
+[debit] AIRPORT PARKING LOS ANGELES,Travel,Transport
 [debit] offerup 1482 mission blvd union city94587 ca usa,Shopping,Shopping
 [debit] CVS 64486865,Shopping,Shopping
 [debit] TSA PRECHECK PORTLAND,Travel,Other
@@ -21143,7 +21143,7 @@ description,category,target_category
 [debit] Community College Of Indianapolis Tuition,Education,Education
 [debit] target #9531 newark,Shopping,Shopping
 [debit] COMMUNITY COLLEGE OF ORLANDO TUITION,Education,Education
-[debit] AIRPORT PARKING 8793 OAK ST SEATTLE98101 WA USA,Travel,Other
+[debit] AIRPORT PARKING 8793 OAK ST SEATTLE98101 WA USA,Travel,Transport
 [debit] dazn*fzvgy4c7,Entertainment,Entertainment
 [debit] INTERMOUNTAIN 6613 BROADWAY RD PHOENIX 85001 AZ USA,Healthcare,Health
 [debit] TOMMY'S EXPRESS 9549 PARK CT PITTSBURGH 15201 PA USA,Transportation,Transport
@@ -21633,7 +21633,7 @@ description,category,target_category
 [debit] GOOGLE FIBER ONLINE PMT WEB ID: PW989LXO,Utilities,Bills
 [debit] Staples - Austin,Shopping,Shopping
 [debit] SAKS 69363,Shopping,Shopping
-[debit] AIRPORT PARKING CHARLOTTE,Travel,Other
+[debit] AIRPORT PARKING CHARLOTTE,Travel,Transport
 [debit] LEMONSQUEEZY 2520 PARK DR BROOKLYN 11201-0611NY USA,Subscription,Other
 [debit] Burger King - Portland,Restaurants,Food
 [debit] DR WONG PEDIATRICS,Healthcare,Health
@@ -21815,7 +21815,7 @@ description,category,target_category
 [debit] SPECTRUM 8610 MAIN CT SAN FRANCISCO 94102-6662CA USA,Utilities,Bills
 [debit] PAYPAL INST XFER GREAT CLIPS WEB ID: PAYPALSI28,Personal Care,Personal Care
 [debit] KBBQ HOUSE 197722,Restaurants,Food
-[debit] AIRPORT PARKING AUSTIN,Travel,Other
+[debit] AIRPORT PARKING AUSTIN,Travel,Transport
 [debit] ANCESTRY.COM* Subscription,Subscription,Other
 [debit] CHILI'S 4088 OAK RD BROOKLYN11201 NY USA,Restaurants,Food
 [debit] AMERICAN FAMILY 1034 UNIVERSITY LN TAMPA33601 FL USA,Insurance,Insurance
@@ -22708,7 +22708,7 @@ description,category,target_category
 [debit] BOZZUTO RENT PMT 85632920 WEB ID: 2S2I1Q2V,Rent,Housing
 [debit] PAYPAL INST XFER PRIVATE INTERNET ACCESSWEB ID: PAYPALSI12,Subscription,Other
 [debit] TST* IHOP,Restaurants,Food
-[debit] AIRPORT PARKING MINNEAPOLIS,Travel,Other
+[debit] AIRPORT PARKING MINNEAPOLIS,Travel,Transport
 [debit] GFL ENVIRONMENTALRECYCLING WEB ID: 9EPW9LX8,Utilities,Bills
 [debit] PAYPAL INST XFER SESAME CARE WEB ID: PAYPALSI58,Healthcare,Health
 [debit] LOANDEPOT MORTGAGE 20616325 PPD ID: 476686831,Mortgage,Housing
@@ -22775,7 +22775,7 @@ description,category,target_category
 [debit] SUNOCO - AUSTIN,Transportation,Transport
 [debit] HEALTHY PET #6970 SAN JOSE,Shopping,Shopping
 [debit] Withdrawal From Cerebral,Healthcare,Health
-[debit] AIRPORT PARKING RALEIGH,Travel,Other
+[debit] AIRPORT PARKING RALEIGH,Travel,Transport
 [debit] APPLE.COM/BILL 8308 OAK LN BOSTON 02101-9181MA USA,Subscription,Other
 [debit] FOREIGN TRANSACTION FEE - 09/36,Fees,Fees
 [debit] balance transfer fee - 14/80,Fees,Fees
@@ -22992,7 +22992,7 @@ description,category,target_category
 [debit] PYPL*Nando's,Restaurants,Food
 [debit] TARGET 39610608,Shopping,Shopping
 [debit] RALPH'S #0934,Groceries,Food
-[debit] AIRPORT PARKING 4847 OAK CT ORLANDO 32801 FL USA,Travel,Other
+[debit] AIRPORT PARKING 4847 OAK CT ORLANDO 32801 FL USA,Travel,Transport
 [debit] PGANDE INTERNET WEB ID: 4HAU3R6Q,Utilities,Bills
 [debit] GROCOUTLT #406 QUEENS,Groceries,Food
 [debit] PAYPAL *PYPL BOMBAS,Shopping,Shopping
@@ -23108,7 +23108,7 @@ description,category,target_category
 [debit] Amazon.com*GTXLE6ARUJI,Shopping,Shopping
 [debit] SAMSCLUB MIN #137,Groceries,Food
 [debit] FRONTIER AIRLINES; PURCHASE,Travel,Transport
-[debit] AIRPORT PARKING TAMPA,Travel,Other
+[debit] AIRPORT PARKING TAMPA,Travel,Transport
 [debit] STOP PAYMENT FEE - 35/56,Fees,Fees
 [debit] TARGET 65184899,Shopping,Shopping
 [debit] UNITED WHOLESALE MORTGAGE 31722553 WEB ID: HM3I3FXT,Mortgage,Housing
@@ -23517,7 +23517,7 @@ description,category,target_category
 [debit] UNITED WHOLESALE MORTGAGE 33072911 PPD ID: 567585624,Mortgage,Housing
 [debit] BOOST MOBILE INTERNET WEB ID: YBID3IDH,Utilities,Bills
 [debit] ACCOUNT CLOSURE FEE - 99/22,Fees,Fees
-[debit] Airport Parking Seattle,Travel,Other
+[debit] Airport Parking Seattle,Travel,Transport
 [debit] ARCO - SAN DIEGO,Transportation,Transport
 [debit] WITHDRAWAL FROM WASTE CONNECTIONS TRASH,Utilities,Bills
 [debit] TRANSAMERICA PREMIUM PPD ID: 5252962350,Insurance,Insurance
@@ -23535,7 +23535,7 @@ description,category,target_category
 [debit] PAYPAL INST XFER NEON WEB ID: PAYPALSI45,Subscription,Other
 [debit] WESTERN DENTAL 8912 ELM PKWY OAKLAND 94601 CA USA,Healthcare,Health
 [debit] RADISSON 13864660,Travel,Other
-[debit] WITHDRAWAL FROM AIRPORT PARKING,Travel,Other
+[debit] WITHDRAWAL FROM AIRPORT PARKING,Travel,Transport
 [debit] MISTER CAR WASH; PAYMENT,Transportation,Transport
 [debit] PYPL*SMART AND FINAL,Groceries,Food
 [debit] BOBA TEA HOUSE 7436 PARK DR RALEIGH27601 NC USA,Restaurants,Food
@@ -25041,7 +25041,7 @@ description,category,target_category
 [debit] ASIAN SUPERMARKET 17660578,Groceries,Food
 [debit] NORTHWESTERN MUTUALINSURANCE PPD ID: 1327582101,Insurance,Insurance
 [debit] VONS #6886,Groceries,Food
-[debit] AIRPORT PARKING QUEENS,Travel,Other
+[debit] AIRPORT PARKING QUEENS,Travel,Transport
 [debit] NATIONAL GRID 140910,Utilities,Bills
 [debit] Withdrawal From Duke Energy Internet,Utilities,Bills
 [debit] KUNG FU TEA 8904 ELM WAY UNION CITY 94587 CA USA,Restaurants,Food
@@ -28625,7 +28625,7 @@ description,category,target_category
 [debit] DENTAL365 2277 BROADWAY WAY BOSTON 02101 MA USA,Healthcare,Health
 [debit] NATIONAL CAR RENTAL 746 MARKET WAY UNION CITY 94587 CA USA,Travel,Transport
 [debit] FOOD4LESS CHI #0559,Groceries,Food
-[debit] AIRPORT PARKING - BROOKLYN,Travel,Other
+[debit] AIRPORT PARKING - BROOKLYN,Travel,Transport
 [debit] HIMALAYAN KITCHEN 4300 MARKET AVE PHILADELPHIA 19101-9395PA USA,Restaurants,Food
 [debit] TSA PRECHECK 92924813,Travel,Other
 [debit] Grocery Outlet 0889 Chicago,Groceries,Food
@@ -30161,7 +30161,7 @@ description,category,target_category
 [debit] Zoo 3224 Broadway Way Indianapolis 46201 In Usa,Entertainment,Entertainment
 [debit] MTA INC,Transportation,Transport
 [debit] DILLARD'S 33131987,Shopping,Shopping
-[debit] AIRPORT PARKING 863 MARKET CT SAN FRANCISCO94102 CA USA,Travel,Other
+[debit] AIRPORT PARKING 863 MARKET CT SAN FRANCISCO94102 CA USA,Travel,Transport
 [debit] UNITED AIRLINES 9902 MARKET LN SALT LAKE CITY 84101-6176UT USA,Travel,Transport
 [debit] SUNO* SUNO Premium,Subscription,Other
 [debit] withdrawal from casella waste trash,Utilities,Bills
@@ -31044,7 +31044,7 @@ description,category,target_category
 [debit] equity residentialrent pmt 51490225 ppd id: 578268630,Rent,Housing
 [debit] Anytime Fitness #273 Oakland,Personal Care,Personal Care
 [debit] BONCHON 6818 MARKET CT SAN DIEGO 92101 CA USA,Restaurants,Food
-[debit] airport parking newark,Travel,Other
+[debit] airport parking newark,Travel,Transport
 [debit] FARMERS INS 5146 INDUSTRIAL BLVD SAN DIEGO 92101-8607CA USA,Insurance,Insurance
 [debit] RELATED COS RENT PMT 71316585 PPD ID: 366073763,Rent,Housing
 [debit] PAYPAL INST XFER 24 HOUR FITNESS WEB ID: PAYPALSI28,Personal Care,Personal Care
@@ -31102,7 +31102,7 @@ description,category,target_category
 [debit] SUSHI SPOT 9720447,Restaurants,Food
 [debit] INACTIVITY FEE - 66/39,Fees,Fees
 [debit] CEREBRAL - INDIANAPOLIS,Healthcare,Health
-[debit] Paypal *airport Parking 875c3bleat,Travel,Other
+[debit] Paypal *airport Parking 875c3bleat,Travel,Transport
 [debit] Codecademy*s3dq1prwle,Education,Education
 [debit] ATM SURCHARGE - 71/35,Fees,Fees
 [debit] WAL-MART #1415,Shopping,Shopping
@@ -32924,7 +32924,7 @@ description,category,target_category
 [debit] PYPL*HOLLISTER,Shopping,Shopping
 [debit] ORANGETHEORY - PHILADELPHIA,Personal Care,Personal Care
 [debit] cost cutters - fremont,Personal Care,Personal Care
-[debit] AIRPORT PARKING BOSTON,Travel,Other
+[debit] AIRPORT PARKING BOSTON,Travel,Transport
 [debit] ULTA SALON*EQ6ECR322,Personal Care,Personal Care
 [debit] Preauthorized Withdrawal to KHAN ACADEMY,Education,Education
 [debit] SAM'S CLUB #15303 COLUMBUS,Groceries,Food
@@ -34489,7 +34489,7 @@ description,category,target_category
 [debit] ANTHEM INSPAYMENT PPD ID: 7069942318,Insurance,Insurance
 [debit] Waste Connections 6723 Elm Ln Orlando 32801 Fl Usa,Utilities,Bills
 [debit] WESTERN DENTAL - RALEIGH,Healthcare,Health
-[debit] AIRPORT PARKING PITTSBURGH,Travel,Other
+[debit] AIRPORT PARKING PITTSBURGH,Travel,Transport
 [debit] MARKET BASKET*SGMQW21IUKF9,Groceries,Food
 [debit] FRONTIER BILL PAY WEB ID: ZMI2QU3D,Utilities,Bills
 [debit] BECU MORTGAGE 30638800 WEB ID: 8T42XSA0,Mortgage,Housing
@@ -34993,7 +34993,7 @@ description,category,target_category
 [debit] SQ *SUSHI BAR - FREMONT,Restaurants,Food
 [debit] DOMINION ENERGY 9609,Utilities,Bills
 [debit] IRVINE COMPANY RENT PMT 32645527 PPD ID: 722803374,Rent,Housing
-[debit] AIRPORT PARKING NEWARK,Travel,Other
+[debit] AIRPORT PARKING NEWARK,Travel,Transport
 [debit] SUPABASE 2562 INDUSTRIAL LN NEW YORK 10001-2570NY USA,Subscription,Other
 [debit] BOZZUTO RENT PMT 35216415 WEB ID: 5X2QY08W,Rent,Housing
 [debit] STARLINK EBILL WEB ID: Z5P22FR4,Utilities,Bills
@@ -35420,7 +35420,7 @@ description,category,target_category
 [debit] CARNIVAL CRUISE BOOKING 43191262,Travel,Other
 [debit] Bozzuto Apt Rent,Rent,Housing
 [debit] ANNUAL FEE - 30/95,Fees,Fees
-[debit] AIRPORT PARKING INC.,Travel,Other
+[debit] AIRPORT PARKING INC.,Travel,Transport
 [debit] WAL-MART #8256,Shopping,Shopping
 [debit] UDEMY 1215 MARKET CT SAN JOSE 95101-1697CA USA,Education,Education
 [debit] LASER TAG INC,Entertainment,Entertainment
@@ -36362,7 +36362,7 @@ description,category,target_category
 [debit] COMCAST ONLINE PMT WEB ID: 9A1PHEOF,Utilities,Bills
 [debit] SQ *FRESH FOOD CO #452,Restaurants,Food
 [debit] PAYPAL INST XFER INVISION WEB ID: PAYPALSI89,Subscription,Other
-[debit] AIRPORT PARKING 7592 PARK BLVD DENVER80201 CO USA,Travel,Other
+[debit] AIRPORT PARKING 7592 PARK BLVD DENVER80201 CO USA,Travel,Transport
 [debit] AMZN DIGITAL*M23B2STO,Shopping,Shopping
 [debit] POKE BOWL #03640 AUSTIN,Restaurants,Food
 [debit] Cardena #9699,Groceries,Food
@@ -36672,7 +36672,7 @@ description,category,target_category
 [debit] HARDEE'S*A5095EKGRHKQ,Restaurants,Food
 [debit] SP PLUS 7652 INDUSTRIAL BLVD QUEENS 11101-3131NY USA,Transportation,Transport
 [debit] ATM SURCHARGE - 86/86,Fees,Fees
-[debit] AIRPORT PARKING SACRAMENTO,Travel,Other
+[debit] AIRPORT PARKING SACRAMENTO,Travel,Transport
 [debit] SWIMMING POOL 3073 MISSION AVE HAYWARD94541 CA USA,Entertainment,Entertainment
 [debit] Century 21 8908 Center Way Austin 78701-9798tx Usa,Shopping,Shopping
 [debit] YMCA #211 SALT LAKE CITY,Personal Care,Personal Care
@@ -37089,7 +37089,7 @@ description,category,target_category
 [debit] UNITED HEALTHCARE 7963 MAIN CT INDIANAPOLIS 46201-8935IN USA,Insurance,Insurance
 [debit] Tsa Precheck Orlando,Travel,Other
 [debit] DUKE ENERGY 8101 OAK PKWY SEATTLE 98101-4626WA USA,Utilities,Bills
-[debit] AIRPORT PARKING 22738,Travel,Other
+[debit] AIRPORT PARKING 22738,Travel,Transport
 [debit] IRVINE COMPANY RENT PMT 25063762 WEB ID: MJTJYAYT,Rent,Housing
 [debit] cerave 9486 elm st houston 77001-4528tx usa,Personal Care,Personal Care
 [debit] CHARGEPOINT *TESLA SUPERCHARGER STATION 2068,Transportation,Transport
@@ -37778,7 +37778,7 @@ description,category,target_category
 [debit] Imax 9359 Park Ave Houston 77001-3175tx Usa,Entertainment,Entertainment
 [debit] AMZN DIGITAL*FMWPRDKBBN4,Shopping,Shopping
 [debit] LATE PAYMENT FEE - 68/96,Fees,Fees
-[debit] airport parking salt lake city,Travel,Other
+[debit] airport parking salt lake city,Travel,Transport
 [debit] NFL SUNDAY TICKET 9612 BROADWAY ST HOUSTON 77001-8452TX USA,Entertainment,Entertainment
 [debit] Kroger,Groceries,Food
 [debit] PEARSON 6029 UNIVERSITY WAY DALLAS 75201 TX USA,Education,Education
